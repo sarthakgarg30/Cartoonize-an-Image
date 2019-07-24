@@ -24,6 +24,19 @@ K-means clustering is applied based on the RGB values using the function.
              
 After this a new image is made using the new RGB valued clusters formed, edges of the original image are then superimposed on this new image to give us the cartoonized image
 
+# Original Image | Cartoonized Image 
+<p align="center">
+  <img align="left" img width="250" height="300" src="https://user-images.githubusercontent.com/52586921/61807580-72079c80-ae57-11e9-9dc6-a60a21bef059.jpg">
+</p>
+
+
+<p align="center">
+  <img align="left" img width="250" height="300" src="https://user-images.githubusercontent.com/52586921/61808138-797b7580-ae58-11e9-9c16-3ee2e849e789.jpg">
+</p>
+
+
+
+
 
 
 
